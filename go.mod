@@ -12,8 +12,8 @@ require (
 	github.com/bndr/gotabulate v1.1.2
 	github.com/bxcodec/faker/v3 v3.5.0
 	github.com/caarlos0/env v3.5.0+incompatible
-	github.com/chromedp/cdproto v0.0.0-20200209033844-7e00b02ea7d2
-	github.com/chromedp/chromedp v0.5.3
+	github.com/chromedp/cdproto v0.0.0-20201009231348-1c6a710e77de
+	github.com/chromedp/chromedp v0.5.4
 	github.com/dustin/go-humanize v1.0.0
 	github.com/fatih/camelcase v1.0.0
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
@@ -34,6 +34,7 @@ require (
 	github.com/jmoiron/sqlx v1.2.1-0.20200324155115-ee514944af4b
 	github.com/joho/godotenv v1.3.0
 	github.com/jordan-wright/email v0.0.0-20200322182553-8eef2508c362
+	github.com/knq/sysutil v0.0.0-20191005231841-15668db23d08 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/lib/pq v1.8.0
 	github.com/mitchellh/mapstructure v1.3.0 // indirect
@@ -55,7 +56,6 @@ require (
 	github.com/vektah/gqlparser/v2 v2.1.0
 	go.uber.org/zap v1.16.0
 	golang.org/x/lint v0.0.0-20200302205851-738671d3881b // indirect
-	golang.org/x/sys v0.0.0-20200501052902-10377860bb8e // indirect
 	golang.org/x/text v0.3.3
 	golang.org/x/tools v0.0.0-20200501065659-ab2804fb9c9d // indirect
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
